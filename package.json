@@ -1,0 +1,22 @@
+{
+  "name": "ej-kelley-website",
+  "version": "1.0.0",
+  "description": "A personal website for E.J. Kelley",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philipwofford/website.git"
+  },
+  "keywords": [
+    "emjk"
+  ],
+  "author": "Philip",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/philipwofford/website/issues"
+  },
+  "homepage": "https://github.com/philipwofford/website#readme"
+}
